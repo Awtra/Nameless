@@ -63,13 +63,12 @@ Upcoming addons (these will need to be downloaded separately):
 * @Samerton
 * @Fellings1
 * @partydragen
-* @Envici
 
 # Full contributor list:
 **Main repository**
 * @samerton
+* @Awtra
 * @partydragen
-* @Fellings1
 * @PugaBear
 * @Root3287
 * @jesseke55
@@ -112,6 +111,7 @@ Upcoming addons (these will need to be downloaded separately):
 
 **[NamelessMC Website](http://namelessmc.github.io/)**
 * @Samerton
+* @Awtra
 * @Root3287
 * @SystemUpdate
 * @nick-2017
@@ -120,13 +120,13 @@ Upcoming addons (these will need to be downloaded separately):
 * @IsS127
 * @Lmmb74
 * @samerton
-* @Fellings1
+* @Awtra
 * @partydragen
 * @Envici
 * @rojo8399
 
 **NamelessMC Translations**
-* English: @Samerton, @Fellings1
+* English: @Samerton, @Awtra
 * German: @LPkkjHD, @manuelgu, @BukkitTNT, philipp0002, @McLive, @Cl1608Ho and @monjo44
 * Spanish: @paloke, @lockerecca, @talkahe, @mrlost, Dexkum and @Ariuw
 * Czech: SnooWiK
